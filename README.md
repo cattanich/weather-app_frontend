@@ -21,7 +21,10 @@ actual.
 inválido.
 • Utiliza una API pública de clima, como OpenWeatherMap
 (https://openweathermap.org/), para obtener los datos del clima.
-3. Pruebas Unitarias:
+
+utilicé https://wttr.in en su lugar
+
+4. Pruebas Unitarias:
 • Prueba que verifica que la aplicación muestra la información del clima
 correctamente después de una búsqueda exitosa.
 • Prueba que verifica que se maneja correctamente un error cuando se ingresa un
