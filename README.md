@@ -1,3 +1,11 @@
+Desarrollado por Christian Cattani
+
+Aplicación de clima simple usando Next.js. La aplicación debe permitir a los
+usuarios buscar el clima actual de cualquier ciudad y mostrar información relevante como
+la temperatura, la humedad y una breve descripción del clima. Además, debes escribir
+pruebas unitarias para asegurar que las funcionalidades principales funcionen
+correctamente.
+
 Requisitos:
 1. Interfaz de Usuario:
 • Un campo de entrada para que el usuario ingrese el nombre de una ciudad.
